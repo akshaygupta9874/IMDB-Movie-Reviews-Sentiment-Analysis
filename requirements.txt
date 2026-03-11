@@ -1,0 +1,13 @@
+streamlit==1.32.0
+protobuf==3.20.3
+Pillow==10.2.0
+transformers>=4.30.0
+torch
+sentencepiece
+pandas
+joblib
+nltk
+scikit-learn
+wordcloud
+matplotlib
+tiktoken
